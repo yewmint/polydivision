@@ -1,0 +1,16 @@
+{
+  "name": "polydivision",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "coffee-loader": "^0.7.3",
+    "coffee-script": "^1.12.4",
+    "webpack": "^2.2.1"
+  },
+  "scripts": {
+    "test": "start index.html"
+  },
+  "author": "yewmint",
+  "license": "ISC"
+}
